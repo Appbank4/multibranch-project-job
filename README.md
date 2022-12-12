@@ -1,2 +1,2 @@
 # multibranch-project-job
-This repo will be use to perform multibranch job
+The repo will be use to perform multibranch
